@@ -1,0 +1,7 @@
+Veri ile uğraşan herkesin kulağına defalarca fısıldanan bir laf vardır;
+
+“Model kurma kısmı neyse de, verinin hazırlanması büyük eziyet”
+
+Bu yazıda, kendi çapımda debelenirken öğrendiğim,
+Keşifsel Veri Analizi (Exploratory Data Analysis) noktasında faydası olabilecek bazı R paketlerinden ve ilgili kaynaklardan bahsediyor olacağım. 
+İlerleyen bölümlerde kısaca EDA diye gösterilecek olan bu önemli süreç için kullanılabilecek birçok paket bulmak mümkün.

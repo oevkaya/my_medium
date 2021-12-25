@@ -154,3 +154,21 @@ HELPrct_shadow %>%
              y = drugrisk,
              colour = drugrisk_NA)) + 
   geom_point()
+
+
+# References --------------------------------------------------------------
+
+
+# https://cran.r-project.org/web/packages/naniar/index.html
+
+# https://cran.r-project.org/web/packages/mosaicData/mosaicData.pdf
+
+# https://cran.r-project.org/web/packages/visdat/vignettes/using_visdat.html
+
+# https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html
+
+# https://cran.r-project.org/web/views/MissingData.html
+
+# https://cran.r-project.org/web/packages/simputation/index.html
+
+# https://www.youtube.com/watch?v=eux3NzJR8O0
